@@ -2,7 +2,7 @@
 A collection of our API's on our website with documentation.
 The following parts will handle each "folder":
 
-## [hackeragenda.be](hackeragenda.be)
+## [hackeragenda.be](https://hackeragenda.be/)
 Hackeragenda.be is a collection (agenda) of Belgian hackerspaces/tech/artistic events. You can add sources yourself via following GitHub-repo:
 -   [https://github.com/YoloSwagTeam/hackeragenda](https://github.com/YoloSwagTeam/hackeragenda)
 
@@ -24,8 +24,8 @@ Don't hesitate to ask any questions.
 
 Note: This isn't the best way to add this to your WordPress theme. It is advised to make a child theme.
 
-## [spaceapi.net](spaceapi.net)
-or here [https://spaceapi.fixme.ch/](https://spaceapi.fixme.ch/)
+## [spaceapi.net](http://spaceapi.net/)
+**or here [https://spaceapi.fixme.ch/](https://spaceapi.fixme.ch/)**
 
 SpaceAPI aims to include all hackerspace API's on it's website.
 To add your hackerspace, send a pull request in this GitHub-repo:
